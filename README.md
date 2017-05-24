@@ -15,5 +15,11 @@ JWT can be parsed easily. Use [JSON Object Signing and Encryption](https://www.n
 
 [Use JWT The Right Way!](https://stormpath.com/blog/jwt-the-right-way)
 
+## References
+JWT : https://tools.ietf.org/html/rfc7519
+JWS: https://tools.ietf.org/html/rfc7516
+JWS: https://tools.ietf.org/html/rfc7515
+Proof-of-Possession Key Semantics for JSON Web Tokens (JWTs) : https://tools.ietf.org/html/rfc7800
+
 ## LICENSE
 MIT
