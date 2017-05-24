@@ -1,0 +1,33 @@
+{
+  "name": "jwt-get-started",
+  "version": "1.0.0",
+  "description": "Use JWT The Right Way!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samurais/jwt-get-started.git"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": "hai liang wang <hailiang.hl.wang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samurais/jwt-get-started/issues"
+  },
+  "homepage": "https://github.com/Samurais/jwt-get-started#readme",
+  "engines": {
+    "node": ">=7.1.6"
+  },
+  "dependencies": {
+    "debug": "^2.6.8",
+    "jsonwebtoken": "^7.4.1",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
